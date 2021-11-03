@@ -31,7 +31,9 @@ hashcat -a 0 -m 1000 --status --force -o CRACKED-PASSWORDS-RESULT.txt HASH-OUTPU
 ```
 
 -o CRACKED-PASSWORDS-RESULT.txt **->** Será o resultados as senhas que o HashCat conseguiu quebrar.
+
 wordlist/senhas-comuns.txt **->** É a wordlist que usamos com palavras e senhas comuns para o ambiente da empresa. 
+
 HASH-OUTPUT-FILE.ntds **->** É o arquivo gerado pelo Impacket, a matriz que vamos utilizar de base para o HashCat.
 
 #### Instalação do Hashcat e Impacket:
