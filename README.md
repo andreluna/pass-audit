@@ -5,7 +5,7 @@ Instruções de como avaliar a qualidade das senhas dos colaboradores da empresa
 
 #### Gerar o DUMP da Base de Dados do Active Directory
 
-Executar os comandos via prompt dentro do Active Directory:
+Executar os comandos via  prompt dentro do Active Directory:
 
 ```
 ntdsutil "ac i ntds" "ifm" "create full c:\TEMP_DUMP_AD" q q
