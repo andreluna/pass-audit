@@ -1,7 +1,7 @@
 ## Auditoria de senhas do Active Directory
 
 
-Instruções de como avaliar a qualidade das senhas dos colaboradores da empresa e contas de serviço.
+Instruções  de como avaliar a qualidade das senhas dos colaboradores da empresa e contas de serviço.
 
 #### Gerar o DUMP da Base de Dados do Active Directory
 
